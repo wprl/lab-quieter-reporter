@@ -1,0 +1,16 @@
+{
+  "name": "lab-quieter-reporter",
+  "version": "1.0.0",
+  "description": "Less failure output when coverage threshold is met.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lab",
+    "reporter",
+    "test"
+  ],
+  "author": "William Riley-Land",
+  "license": "MIT"
+}
